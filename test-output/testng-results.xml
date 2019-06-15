@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17473" started-at="2019-06-15T04:56:42Z" finished-at="2019-06-15T04:57:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17473" started-at="2019-06-15T04:56:42Z" finished-at="2019-06-15T04:57:00Z">
+      <class name="testcase.demotestcase">
+        <test-method status="PASS" signature="drivr()[pri:0, instance:testcase.demotestcase@326de728]" name="drivr" is-config="true" duration-ms="5026" started-at="2019-06-15T10:26:42Z" finished-at="2019-06-15T10:26:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drivr -->
+        <test-method status="PASS" signature="TestExceution(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.demotestcase@326de728]" name="TestExceution" duration-ms="27" started-at="2019-06-15T10:26:48Z" data-provider="MethodData" finished-at="2019-06-15T10:26:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keyword]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Locator]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[InputData]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Purpose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExceution -->
+        <test-method status="PASS" signature="TestExceution(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.demotestcase@326de728]" name="TestExceution" duration-ms="3950" started-at="2019-06-15T10:26:48Z" data-provider="MethodData" finished-at="2019-06-15T10:26:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OpenWebsite]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://demo.automationtesting.in/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Open Website]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExceution -->
+        <test-method status="PASS" signature="TestExceution(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.demotestcase@326de728]" name="TestExceution" duration-ms="6379" started-at="2019-06-15T10:26:52Z" data-provider="MethodData" finished-at="2019-06-15T10:26:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[//button[@id='btn2']]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Skip signin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExceution -->
+        <test-method status="PASS" signature="TestExceution(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.demotestcase@326de728]" name="TestExceution" duration-ms="362" started-at="2019-06-15T10:26:58Z" data-provider="MethodData" finished-at="2019-06-15T10:26:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EnterText]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[//input[@ng-model='FirstName']]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Iswarya]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Enter FirstName in FirstName]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExceution -->
+        <test-method status="PASS" signature="TestExceution(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.demotestcase@326de728]" name="TestExceution" duration-ms="106" started-at="2019-06-15T10:26:58Z" data-provider="MethodData" finished-at="2019-06-15T10:26:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EnterText]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[//input[@ng-model='LastName']]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Enter LastName in LastName]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExceution -->
+        <test-method status="PASS" signature="TestExceution(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.demotestcase@326de728]" name="TestExceution" duration-ms="811" started-at="2019-06-15T10:26:59Z" data-provider="MethodData" finished-at="2019-06-15T10:26:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[//button[@id='submitbtn']]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Click on Submit action]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExceution -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testcase.demotestcase@326de728]" name="close" is-config="true" duration-ms="234" started-at="2019-06-15T10:26:59Z" finished-at="2019-06-15T10:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcase.demotestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
